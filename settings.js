@@ -59,7 +59,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   CMD_CORRECT: false,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,// disabled
-  BUTTON_MESSAGES: false,// Don't change this
+  BUTTON_MESSAGES: true,// Don't change this
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
