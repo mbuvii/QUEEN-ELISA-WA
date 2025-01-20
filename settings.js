@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QW1g3ZKR1Qnh1cNJzQnJETpFlbkdGWMhXQId0N3lHd2VXMUJkWFNXOK1EVjQFeTd1dVpUVpwd=307086347452',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QRUV3SGNXQzIlZ2JUYLVVYMZTY4MTOhdkMXZkYul3RzgXYYVWSKJlTtlTOjQVeSRUeFJVVpwd=493834097452',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -28,14 +28,14 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'Tech Savage',
-  OWNER_NUMBER: '254743680703',
-  SUDO: '254743680703',
+  OWNER_NAME: 'SVJ...💥💥',
+  OWNER_NUMBER: '254790438394',
+  SUDO: '254790438394',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'Tech Savage',
+  STICKER_AUTHOR: 'SVJ...💥💥',
   STICKER_PACK: 'QUEEN ELISA',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
